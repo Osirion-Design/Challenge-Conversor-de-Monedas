@@ -12,11 +12,18 @@ Desarrollado en Java con interfaz gráfica de usuario (GUI) utilizando la biblio
 Sigue estos pasos para completar el desafío de programación y construir tu propio Conversor de Monedas:
 
 💲 Configuración del Ambiente Java: Asegúrate de tener instalado Java en tu sistema y configurado correctamente. Puedes utilizar cualquier IDE de Java de tu elección.
+
 💲 Creación del Proyecto: Crea un nuevo proyecto Java en tu IDE y organiza tu estructura de archivos de acuerdo a tus preferencias.
+
 💲 Consumo de la API: Utiliza una API de tasas de cambio para realizar solicitudes HTTP y obtener los datos de conversión de divisas.
+
+
 💲 Análisis de la Respuesta JSON: Analiza la respuesta JSON recibida de la API para extraer la información relevante, como las tasas de conversión entre diferentes divisas.
+
 💲 Filtro de Monedas: Implementa un mecanismo para filtrar las monedas de interés, permitiendo al usuario seleccionar las divisas de origen y destino para la conversión.
+
 💲 Exibición de Resultados a los usuarios: Muestra los resultados de la conversión de manera clara y legible para el usuario. Puedes utilizar una interfaz gráfica de usuario (GUI) o una interfaz de línea de comandos (CLI) según tus preferencias.
+
 
 # Tecnologías utilizadas 🚀
 Utiliza las siguientes tecnologías y herramientas:
