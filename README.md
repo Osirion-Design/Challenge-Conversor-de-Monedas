@@ -48,5 +48,5 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 <br></br>
 <p align="center">
-  <img src="https://github.com/Orliluq/Challenge-Conversor-de-Monedas/assets/122529721/634d5dc7-dfdd-43f6-b505-ee702d0d82b0"
+
 </p>
